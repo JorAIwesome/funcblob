@@ -6,4 +6,4 @@ azure-functions
 ortools
 openai
 pandas
-zure.storage.blob
+azure.storage.blob
